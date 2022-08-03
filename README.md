@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **seifeldin.zook@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RODYIPVocENEel18CI8OKAz37nF6ybRJ/view?usp=sharing](https://drive.google.com/file/d/1RODYIPVocENEel18CI8OKAz37nF6ybRJ/view?usp=sharing)
+- 📄 Know more about me? [https://zookations.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
